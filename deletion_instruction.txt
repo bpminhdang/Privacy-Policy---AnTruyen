@@ -1,0 +1,24 @@
+Bước 1: Đăng Nhập vào Ứng Dụng
+
+Đảm bảo bạn đã đăng nhập vào ứng dụng sử dụng tài khoản của bạn.
+
+Bước 2: Truy Cập Cài Đặt Tài Khoản
+
+Mở menu hoặc cài đặt ứng dụng.
+Tìm và chọn mục "Cài Đặt Tài Khoản" hoặc tương tự.
+Bước 3: Chọn "Xóa Dữ Liệu"
+
+Tìm và chọn tùy chọn "Xóa Dữ Liệu" trong cài đặt tài khoản.
+Bước 4: Xác Nhận Xóa Dữ Liệu
+
+Một hộp thoại xác nhận sẽ xuất hiện để đảm bảo bạn chắc chắn về quyết định của mình.
+Nhập mật khẩu của bạn để xác nhận quyết định.
+Bước 5: Hoàn Thành Quá Trình Xóa Dữ Liệu
+
+Sau khi xác nhận, quá trình xóa dữ liệu sẽ bắt đầu.
+Hãy đợi một lúc và sau đó đăng nhập lại để xem thay đổi.
+Lưu Ý:
+
+Hãy chắc chắn rằng bạn đã sao lưu hoặc xuất dữ liệu quan trọng trước khi thực hiện xóa.
+Quá trình xóa dữ liệu có thể mất một khoảng thời gian tùy thuộc vào kích thước của dữ liệu.
+Lưu ý rằng nếu ứng dụng của bạn cung cấp nhiều tính năng hoặc dữ liệu quan trọng, bạn có thể cần bổ sung hướng dẫn hoặc cung cấp hỗ trợ trực tuyến để giúp người dùng hiểu rõ và thực hiện quá trình xóa dữ liệu một cách đúng đắn.
